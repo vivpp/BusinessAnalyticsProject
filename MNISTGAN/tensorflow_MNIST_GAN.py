@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
-# G(z)
+# Defines the architecture for the generator
 def generator(x):
     # initializers
     w_init = tf.truncated_normal_initializer(mean=0, stddev=0.02)
@@ -32,7 +32,7 @@ def generator(x):
 
     return o
 
-# D(x)
+# Defines architecture for the discriminator
 def discriminator(x, drop_out):
 
     # initializers
