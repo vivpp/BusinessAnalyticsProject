@@ -1,5 +1,5 @@
-Contains neccessary files and links for the 3D plot of the AMGAN outputs using tensorflow's standalone embedding projector tool
-- Live version of my implementation of the tool can be found at this link: https://vivpp.github.io/
+This folder contains neccessary files and links for the 3D plot of the AMGAN outputs using tensorflow's standalone embedding projector tool
+## Live version of my implementation of the tool can be found at this link: https://vivpp.github.io/
 
 - Using the outputs from the AMGAN these images were converted into sprite images found in the sprites.png file.
 - The tensor.bytes file contains tensors contain classification information related to each sprite.
