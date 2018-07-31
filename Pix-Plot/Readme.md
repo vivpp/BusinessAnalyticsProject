@@ -13,7 +13,7 @@ My own implementation contains all neccessary files needed which have been pre-p
 Should you wish to run run the pre-processing stage please refer to the process.py file found in the utils folder
 
 Given you have the requirements installed below
-all you need to do is download the whole of the `pix-plot-AMGAN-output` folder to your system and in the terminal navigate to the directory where pix-plot has been saved using:
+all you need to do is download the whole of the `pix-plot-AMGAN-output` folder and extract the files from the zip into your system. Then in the terminal navigate to the directory where pix-plot-AMGAN-ouput has been saved using:
 
 `cd pix-plot-AMGAN-output`
 
