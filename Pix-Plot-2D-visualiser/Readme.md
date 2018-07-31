@@ -4,7 +4,7 @@
 link to Pix-Plot GitHub : https://github.com/YaleDHLab/pix-plot
 
 link to my own implementation of pix-plot: https://drive.google.com/open?id=1UaI0yrfahMqGWd3myzuU4et-rEyY9zf1
-
+(GitHub prevents file uploads bigger than 25MB)
 
 ## Running my implementation on your own system
 
