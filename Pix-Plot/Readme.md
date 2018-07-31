@@ -3,7 +3,7 @@
 ## Acknowlegement - Pix-Plot is the visualiser used to generate the 2D clustering visualisation presented in the paper
 link to Pix-Plot GitHub : https://github.com/YaleDHLab/pix-plot
 
-link to my own implementation of pix-plot: https://drive.google.com/open?id=1iNe16Zw_HwQm_9ijrKfAcEtlW_awKSUm
+link to my own implementation of pix-plot: https://drive.google.com/open?id=1UaI0yrfahMqGWd3myzuU4et-rEyY9zf1
 
 
 ## Running my implementation on your own system
