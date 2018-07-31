@@ -11,5 +11,5 @@ This folder contains code and relevant links for the vector only visualisation p
 - next use `tensorboard --logdir=project-tensorboard/log-4 --port=6006` to activate tensorboard
 - use the URL that appears in tensorboard to access the visualisation
 
-##Acknowledgement
+## Acknowledgement
 Source code for tensorboard implementation: https://medium.com/@vegi/visualizing-higher-dimensional-data-using-t-sne-on-tensorboard-7dbf22682cf2
