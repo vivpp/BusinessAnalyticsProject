@@ -5,6 +5,7 @@ This folder contains neccessary files and links for the 3D plot of the AMGAN out
 - The tensor.bytes file contains tensors contain classification information related to each sprite.
 - The code used to create the sprites and tensor files is the main.py file
 - JSON file is the configuration file that is referred to when accessing the live page
+- The Html file is required for the page to load correctly
 
 ## Acknowledgements
 The code was orginally sourced from the following github: https://github.com/harveyslash/TSNE-Embedding-Visualisation
