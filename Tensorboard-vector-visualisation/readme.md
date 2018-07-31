@@ -1,5 +1,8 @@
 This folder contains code and relevant links for the vector only visualisation presented in the paper
 
+## Due to GitHub file size limitations (only 25MB) please refer to the following link for all data and code files:
+## https://drive.google.com/open?id=1dKibMcNjlZ-CmfglknR8XMPFskVpO3h7
+
 - jpg_numpy.py  -- file converst all of AMGAN outputs, which have been seperated, into numpy arrays
 - script_combinenumpys.py -- combines all of the seperate numpy arrays made by jpg_numpy.py into one numpy array
 - convert_numpy file to csv.ipynb -- converts the combined numpyfile to csv file
